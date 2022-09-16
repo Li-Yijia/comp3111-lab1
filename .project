@@ -20,4 +20,11 @@
 		<nature>org.eclipse.jdt.core.javanature</nature>
 		<nature>org.eclipse.buildship.core.gradleprojectnature</nature>
 	</natures>
+	<linkedResources>
+		<link>
+			<name>image.png</name>
+			<type>1</type>
+			<location>/Users/tinatian/Desktop/截屏2022-09-16 下午3.04.26.png</location>
+		</link>
+	</linkedResources>
 </projectDescription>
